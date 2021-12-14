@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/CSP/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/JDBC.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/DepartmentService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/EmployeeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/MeetingRoomService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/MeetingService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/servlet/LoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/servlet/RegisterServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/servlet/appMeetingRoomInfo.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
